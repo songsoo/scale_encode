@@ -2,6 +2,7 @@
 
 # Description
 get 2d array of dataframe that is preprocessed by encoders, scalers
+</br>
 use (standard scaler, minmax scaler, robust scaler), (label encoder, onehot encoder)
 
 # How to use (example)
